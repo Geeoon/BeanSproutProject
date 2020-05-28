@@ -1,0 +1,9 @@
+May 25, 2020
+I am making this bean sprout grower because my father wanted to grow bean sprouts automatically with is phone.
+I researched the ESP32 as a way to interface with the device.  I chose this because it contains all the wireless capabilities in the chip as well as the cheap cost and low profile.
+
+May 26, 2020
+Today I started working on the project report.
+
+May 27, 2020
+Started parts list and installed Arudino IDE for flashing the ESP32.
